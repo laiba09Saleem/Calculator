@@ -43,20 +43,13 @@ DOM elements are selected using querySelector and event listeners are added to b
 Arithmetic operations are performed based on user interaction and input is displayed in real time.
 
 📌 Key Concepts
-Object-Oriented JavaScript
+- Object-Oriented JavaScript
 
-DOM Traversal and Manipulation
+- DOM Traversal and Manipulation
 
-Event-Driven Programming
+- Event-Driven Programming
 
-Clean and Responsive UI Design
+- Clean and Responsive UI Design
 
-Feel free to fork, star ⭐, or contribute to improve the calculator!
-
-- Add a `screenshot.png` showing the calculator interface for better presentation.
-- Create a `LICENSE` file if you're adding a license (e.g., MIT License).
-- Replace `yourusername` in the clone URL with your actual GitHub username.
-
-Would you like me to generate the screenshot or license file for you as well?
 
 
