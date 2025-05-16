@@ -33,7 +33,7 @@ open index.html   # or simply double-click the file
 
 📸 Screenshots
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](calculator.png)
 
 🛠️ How It Works
 The Calculator class handles all calculator operations and logic.
