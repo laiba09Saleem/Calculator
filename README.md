@@ -27,7 +27,7 @@ calculator/
  🖥️ Demo
 
 You can clone the repository and open `index.html` in any modern browser to run the calculator locally.
-git clone https://github.com/yourusername/calculator.git
+https://github.com/laiba09Saleem/Calculator.git
 cd calculator
 open index.html   # or simply double-click the file
 
