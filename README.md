@@ -30,6 +30,8 @@ You can clone the repository and open `index.html` in any modern browser to run 
 https://github.com/laiba09Saleem/Calculator.git
 cd calculator
 open index.html   # or simply double-click the file
+
+
 Visit: (http://127.0.0.1:5501/index.html)
 
 
