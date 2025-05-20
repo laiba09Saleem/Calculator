@@ -24,12 +24,10 @@ calculator/
 └── script.js # JavaScript logic
 
 
- 🖥️ Demo
+🌐 Live Demo
 
-You can clone the repository and open `index.html` in any modern browser to run the calculator locally.
-https://github.com/laiba09Saleem/Calculator.git
-cd calculator
-open index.html   # or simply double-click the file
+[Click here to view the live site](https://laiba09saleem.github.io/Calculator/)
+
 
 
 Visit: (http://127.0.0.1:5501/index.html)
