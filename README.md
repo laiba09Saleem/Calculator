@@ -28,12 +28,6 @@ calculator/
 
 [Click here to view the live site](https://laiba09saleem.github.io/Calculator/)
 
-
-
-Visit: (http://127.0.0.1:5501/index.html)
-
-
-
 📸 Screenshots
 
 ![Calculator Screenshot](Calculator.png)
